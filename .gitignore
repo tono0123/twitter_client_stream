@@ -20,4 +20,4 @@
 # Ignore Byebug command history file.
 .byebug_history
 
-/config/locals/en.yml
+/config/locales/en.yml
